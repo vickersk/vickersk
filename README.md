@@ -7,7 +7,7 @@ What I'm Currently Working On:
 
 - 🔭 I’m currently working on my programming project for CS 357 (Theory of Computation) course
 - 🌱 I’m currently studying reinforcement learning training methods
-- 📫 How to reach me: vickers23@up.edu
+- 📫 How to reach me: vickers23@up.edu | www.linkedin.com/in/kaivickers
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
