@@ -5,7 +5,7 @@ I'm a third-year computer science major at the University of Portland, currently
 <!-- **vickersk/vickersk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 What I'm Currently Doing:
 
-- 🔭 I’m currently working on implementing Hills and Vignere cryptosystems in Julia and Python, and assessing the time it takes brute force attack them 
+- 🔭 I’m currently working on implementing Hills and Vignere cryptosystems in Julia and Python, and assessing the time it takes to brute force attack them 
 - 🌱 I’m currently studying reinforcement learning training methods
 - 📫 How to reach me: vickers23@up.edu | www.linkedin.com/in/kaivickers
 
