@@ -6,8 +6,8 @@ I'm a third-year computer science major at the University of Portland, currently
 What I'm Currently Doing:
 
 - 🔭 I’m currently working on Keg Plebs, an NFT project focused on connecting the world of NFTs with local craft breweries around the globe.
-      - Twitter: https://twitter.com/KegPlebs
-      - Discord: https://t.co/Q3MliN9EhG
+    * Twitter: https://twitter.com/KegPlebs
+    * Discord: https://t.co/Q3MliN9EhG
 - 🌱 I’m currently learning Next.js and Ethereum smart contract development in Solidity
 - 📫 How to reach me: vickers23@up.edu | www.linkedin.com/in/kaivickers
 
